@@ -1,0 +1,8 @@
+openai
+langchain
+tiktoken
+python-dotenv
+pandas
+iPython
+langchain[docarray]
+
